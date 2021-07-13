@@ -8,7 +8,7 @@ About
 and have a fixed size. Most of the matrices are taken from the matrix exponential literature, and are real, ill-conditioned or rank-deficient.
 The matrices are used in 
 
-Awad H. Al-Mohy, N. J. Higham and Xiaobo Liu. [Computing the Matrix Cosine
+Awad H. Al-Mohy, Nicholas J. Higham and Xiaobo Liu. [Computing the Matrix Cosine
 and its Frechet Derivative in Arbitrary Precision], in preparation. 
 
 The matrices are
