@@ -5,13 +5,13 @@ About
 -----
 
 `matrices-mp-cosm` is a collection of MATLAB functions that generate the selected matrices for testing the matrix cosine in multiprecision. All matrices are square 
-and have a fixed size. Most of the matrices are taken from the matrix exponential literature, and are real, ill-conditioned or rank-deficient.
+and have a fixed size. Most of the matrices are taken from the matrix exponential literature, and are real, ill conditioned or rank-deficient.
 The matrices are used in 
 
 Awad H. Al-Mohy, Nicholas J. Higham and Xiaobo Liu. [Computing the Matrix Cosine
 and its Frechet Derivative in Arbitrary Precision], in preparation. 
 
-The matrices are
+The 34 matrices are
 
 %   almo2r1   - 2-by-2 matrix by Awad H. Al-Mohy.
 
