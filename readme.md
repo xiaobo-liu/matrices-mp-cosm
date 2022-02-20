@@ -8,7 +8,7 @@ About
 and have a fixed size. Most of the matrices are taken from the matrix exponential literature, and are real, ill conditioned or rank deficient.
 The matrices are used in 
 
-[Awad H. Al-Mohy, Nicholas J. Higham and Xiaobo Liu. Arbitrary precision algorithms for computing the matrix cosine and its Fréchet derivative. SIAM J. Matrix Anal. Appl., 43(1):233-256, 2022.](https://epubs.siam.org/doi/10.1137/21M1441043)
+Awad H. Al-Mohy, Nicholas J. Higham and Xiaobo Liu. [Arbitrary precision algorithms for computing the matrix cosine and its Fréchet derivative](https://epubs.siam.org/doi/10.1137/21M1441043). SIAM J. Matrix Anal. Appl., 43(1):233-256, 2022.
 
 The 34 matrices are
 
