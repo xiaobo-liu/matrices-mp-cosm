@@ -38,15 +38,15 @@ The 34 matrices are
 
 %   kase99    - 10-by-10 matrix from \cite[Table 1]{kase99}.
 
-%   kela89    - 4-by-4 matrix from \cite[p.~206]{kela89}.
+%   kela89r1    - 4-by-4 matrix from \cite[p.~206]{kela89}.
+
+%   kela89r2  - 2-by-2 matrix from \cite[Ex.~5]{kela89}.
 
 %   kela98r1  - 2-by-2 matrix from \cite[Ex.~2]{kela98}.
 
 %   kela98r2  - 5-by-5 matrix from \cite[p.~655]{kela98}.
 
-%   kela98r3  - 2-by-2 matrix from \cite[Ex.~5]{kela98}.
-
-%   kela98r4  - 2-by-2 matrix from \cite[Ex.~3]{kela98}.
+%   kela98r3  - 2-by-2 matrix from \cite[Ex.~3]{kela98}.
 
 %   kuda10    - 20-by-20 matrix from \cite{kuda10}.
 
